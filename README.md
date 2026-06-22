@@ -31,20 +31,27 @@ Diagram
 
 Equipment Rating
 
-Parameter| Value
+
 Rated Voltage| 132/33 kV
+
 Frequency| 50 Hz
+
 Transformer Rating| 2 × 63 MVA
+
 Total Transformer Capacity| 126 MVA
 
-Symbol Legend
+Symbol 
 
-Symbol| Description
 LA| Lightning Arrester
+
 CVT/PT| Capacitive Voltage Transformer / Potential Transformer
+
 CT| Current Transformer
+
 CB| Circuit Breaker
+
 ISO| Isolator
+
 Transformer| Power Transformer
 
 Applications
@@ -58,7 +65,7 @@ Applications
 Software Used
 
 - AutoCAD / Electrical CAD Software
-- Image Editing Software (if applicable)
+- Image Editing Software
 
 License
 
@@ -67,7 +74,3 @@ This project is licensed under the MIT License. Feel free to use, modify, and sh
 Author
 
 Kalyan Sarkar
-
----
-
-For educational and learning purposes only.
