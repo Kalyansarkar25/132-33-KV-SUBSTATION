@@ -27,7 +27,7 @@ Features
 
 Diagram
 
-"132/33 kV Substation SLD" (diagram.png)
+"132/33 kV Substation SLD" (diagram.jpg)
 
 Equipment Rating
 
